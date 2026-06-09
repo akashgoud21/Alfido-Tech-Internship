@@ -1,2 +1,2 @@
 # Alfido-Tech-Internship
-Python Development Internship Projects completed at Alfido Tech
+Python Developer Internship Tasks — Alfido Tech | Pattaparla Akash Goud

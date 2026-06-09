@@ -1,0 +1,13 @@
+Order_ID,Product,Category,Price,Quantity,Region
+101,Laptop,Electronics,55000,5,North
+102,Mobile,Electronics,25000,10,South
+103,Headphones,Electronics,2000,15,East
+104,Chair,Furniture,3500,8,West
+105,Table,Furniture,7000,4,North
+106,Sofa,Furniture,15000,2,South
+107,Laptop,Electronics,55000,3,East
+108,Mobile,Electronics,25000,,West
+109,Chair,Furniture,3500,6,North
+110,Table,Furniture,7000,5,South
+111,Smart Watch,Electronics,12000,7,East
+112,Bookshelf,Furniture,9000,3,West
